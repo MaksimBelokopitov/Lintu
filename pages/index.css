@@ -1,7 +1,7 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
-@import url();
-@import url();
+@import url(../block/page/page.css);
+@import url(../block/page/_lintu/page_lintu.css);
 @import url();
 @import url();
 @import url();
