@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Onest';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("./Onest/Onest-Regular.woff2") format("woff2"),
+         url("./Onest/Onest-Regular.woff") format("woff");
+  }
+
+  @font-face {
+    font-family: 'Onest';
+    font-style:  normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("./Onest/Onest-Medium.woff2") format("woff2"),
+         url("./Onest/Onest-Medium.woff") format("woff");
+  }
+
+@font-face {
+     font-family: 'Philosopher';
+     font-style:  normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url("./Philosopher/Philosopher-Regular-webfont.woff") format("woff");
+   }
+
+   @font-face {
+    font-family: 'Philosopher';
+    font-style:  normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("./Philosopher/Philosopher-Bold-webfont.woff") format("woff");
+  }
+
